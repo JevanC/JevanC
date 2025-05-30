@@ -24,9 +24,9 @@ Personal Website: [Link](https://jevanc.github.io/portfolio_website/)
 
 <h2>Data Science / Personal Projects:</h2>
 
-- [Credit Worthiness Project]
+- [Credit Worthiness Project](https://github.com/JevanC/JevanChahal/issues/2#issue-3102013005)
 - [Stock Trading](https://github.com/JevanC/Stock-Trading)
-- [Recipe Analysis]
+- [Recipe Analysis](https://leogeon.github.io/RecipeAnalysis/)
 
 
 <h2>Education:</h2>
