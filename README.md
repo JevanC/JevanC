@@ -27,6 +27,7 @@ Personal Website: [Link](https://jevanc.github.io/portfolio_website/)
 - [Credit Worthiness Project](https://github.com/JevanC/JevanChahal/issues/2#issue-3102013005)
 - [Stock Trading](https://github.com/JevanC/Stock-Trading)
 - [Recipe Analysis](https://leogeon.github.io/RecipeAnalysis/)
+- [Recipe Regression Model](https://leogeon.github.io/Recipe-Machine-Learning-Model/)
 
 
 <h2>Education:</h2>
