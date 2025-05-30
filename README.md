@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Jason! 👋 </h1>
+<h1>Hi there, I'm Jevan! </h1>
 I recently earned a B.S. in Data Science from UC San Diego. I love learning new domains and applying my skills in data science to those domains. I have skills ranging from machine learning all the way to database managment and am looking for a full time role to apply these skills!
 
 
