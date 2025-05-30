@@ -45,5 +45,6 @@ Personal Website: [Link](https://jevanc.github.io/portfolio_website/)
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jevan-chahal/)
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:chahal.jev@gmail.com)
+🔵 [**LinkedIn: Jevan Chahal**](https://www.linkedin.com/in/jevan-chahal/)  
+✉️ [**Email: chahal.jev@gmail.com**](mailto:chahal.jev@gmail.com)
+
