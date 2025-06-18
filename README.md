@@ -25,6 +25,7 @@ Personal Website: [Link](https://jevanc.github.io/portfolio_website/)
 <h2>Data Science / Personal Projects:</h2>
 
 - [Credit Worthiness Project](https://github.com/JevanC/JevanChahal/issues/2#issue-3102013005)
+- [Public Relations Sentiment Agent](https://github.com/JevanC/news-analyst-agent)
 - [Stock Trading](https://github.com/JevanC/Stock-Trading)
 - [Recipe Analysis](https://leogeon.github.io/RecipeAnalysis/)
 - [Recipe Regression Model](https://leogeon.github.io/Recipe-Machine-Learning-Model/)
